@@ -6,4 +6,4 @@ The project is mainly dependent on QT C++ OOP. All flights, reservations ,..etc 
 - Validation: Email format & only one account holder. 
 - Exceptions: Handler (message ) when the user use another format other than email format. 
 
-
+For more info: https://github.com/abdelmaksou/HotelRes/blob/main/Final%20Presentation.pptx
